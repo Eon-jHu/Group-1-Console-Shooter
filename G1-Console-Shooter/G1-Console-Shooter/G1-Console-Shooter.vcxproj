@@ -142,6 +142,12 @@
     <ClCompile Include="Controller.cpp" />
     <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PlayerCharacter.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Controller.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="PlayerCharacter.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Controller.h" />
